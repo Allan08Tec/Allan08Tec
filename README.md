@@ -1,7 +1,9 @@
 ### Hi there 👋
 My name is Allan González, I´m Computer engineer Intern, who likes to learn many new things and create solutions, responsible, punctual, with the ability to learn quickly and from his mistakes, in addition to being very proactive and I like to be updated on new technologies or solutions.
 
-![Bannes Allan](https://github.com/Allan08Tec/Allan08Tec/assets/61554258/9298ad36-9b62-45e1-bc9a-c2ab347fb14e)
+
+![Bannes Allan (2)](https://github.com/Allan08Tec/Allan08Tec/assets/61554258/2cec2c16-1504-47f9-8b98-6471fb9b48cb)
+
 
 
 <!--
